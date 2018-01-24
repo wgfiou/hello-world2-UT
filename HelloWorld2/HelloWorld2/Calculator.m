@@ -18,7 +18,7 @@
 
 - (float) addTwoDecimals: (float) first plus:(float) second
 {
-    return (first + second);
+    return (first + second)
 }
 
 @end
