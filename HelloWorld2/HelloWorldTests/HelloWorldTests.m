@@ -39,7 +39,7 @@
 {
     NSLog(@"testAddTwoNumbers");
     int result = [calculator addTwoNumbers:3 secondNumber:6];
-    XCTAssertEqual(90, result);
+    XCTAssertEqual(9, result);
 }
 
 - (void) testAddTwoDecimals
